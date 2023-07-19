@@ -18,8 +18,8 @@ void showATMMenu() {
     print("\n====== ATM Menu ======");
     print("1. Create Account");
     print("2. Check Balance");
-    print("3. Deposit");
-    print("4. Withdraw");
+    print("3. Deposit Balance");
+    print("4. Withdraw Balance");
     print("5. Delete Account");
     print("6. Exit");
 
