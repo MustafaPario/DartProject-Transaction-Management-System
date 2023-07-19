@@ -6,7 +6,7 @@ List<Map> accounts = [
 List Ledger = [];
 
 void main() {
-  print("======Welcome to the Transaction Management System======");
+  print("====== Welcome to the Transaction Management System ======");
 
   showATMMenu(); // Call the menu function
 }
