@@ -1,7 +1,7 @@
 import 'dart:io';
 
 List<Map> accounts = [
-  {"Id": 0, "Name": "admin", "Pin": 0000, "Balance": 10}
+  {"Id": 0, "Name": "admin", "Pin": 0000, "Balance": 10} //Default data
 ];
 List Ledger = [];
 
