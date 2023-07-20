@@ -71,7 +71,7 @@ void showATMMenu() {
         break;
 
       default:
-        print("Invalid choice. Please try again.");
+        print(" Invalid choice. Please try again. ");
         break;
     }
   }
